@@ -2,6 +2,12 @@
 
 A clean and responsive user directory app built with React, JavaScript, and Tailwind CSS. Browse users, search through the list, view detailed information, and add new users with full form validation.
 
+<img width="1898" height="831" alt="image" src="https://github.com/user-attachments/assets/4e93962e-3178-471d-ba26-8207134e4a14" />
+<img width="1631" height="854" alt="image" src="https://github.com/user-attachments/assets/178e4adc-c9a0-402c-b2e5-d6c0cb3e9524" />
+<img width="769" height="684" alt="image" src="https://github.com/user-attachments/assets/00c869b7-c059-43f0-a6a4-e99e7358f982" />
+
+
+
 ## Features
 
 - **User List Display** - Fetches and displays users from JSONPlaceholder API with name, email, and phone
